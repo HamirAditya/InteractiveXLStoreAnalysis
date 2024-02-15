@@ -2,6 +2,9 @@ VRINDA Store Annual Data Analysis in Excel
 Overview
 This project involves analyzing annual store data from VRINDA, a fictional store, using Microsoft Excel. The primary goal is to generate interactive visualizations to gain insights into various aspects of the store's performance over the year.
 
+![vrindaa](https://github.com/HamirAditya/InteractiveXLStoreAnalysis/assets/160116915/66e8e6a1-5b8c-4c10-ae05-aaaff9606123)
+
+
 Data
 The data used for this analysis consists of annual store data for VRINDA. It includes information such as:
 
